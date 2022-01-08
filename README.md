@@ -59,17 +59,16 @@
 
 ## 📈 Github Stats
 
-<p>
+<p float="left">
     <a href="https://github.com/DanielRamosAcosta#gh-light-mode-only">
         <img src="https://github-readme-stats.vercel.app/api?username=danielramosacosta&count_private=true&show_icons=true" height="160px" />
     </a>
     <a href="https://github.com/DanielRamosAcosta#gh-dark-mode-only">
         <img src="https://github-readme-stats.vercel.app/api?username=danielramosacosta&count_private=true&show_icons=true&theme=dark" height="160px" />
     </a>
-</p>
-<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/DanielRamosAcosta#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielramosacosta&layout=compact" height="128px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielramosacosta&layout=compact" height="130px" />
     </a>
     <a href="https://github.com/DanielRamosAcosta#gh-dark-mode-only">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielramosacosta&layout=compact&theme=dark" height="128px" />
