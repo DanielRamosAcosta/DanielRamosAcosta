@@ -48,7 +48,7 @@
 - 💼 Currently working at [@acidtango](https://github.com/acidtango)
 - 🔭 Developing at [Wallbox](https://wallbox.com) installers project
 - 🌱 I’m currently learning/trying out Deno & Rust
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I live at the Canary Islands, and I love being in contact with the nature
 
 ## 📝 Blog posts
