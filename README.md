@@ -46,6 +46,7 @@
 
 - 📚 Full-stack developer with expertise at Node, Express/Nest & React.
 - 💼 Currently working at [@acidtango](https://github.com/acidtango)
+- 🎥 [This is my video presentation](https://www.youtube.com/watch?v=pxEAhsFC5ko&ab_channel=AcidTango)
 - 🔭 Developing at [Wallbox](https://wallbox.com) installers project
 - 🌱 I’m currently learning/trying out Deno & Rust
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -56,6 +57,11 @@
 - [Is TypeScript better than JavaScript?](https://acidtango.com/thelemoncrunch/is-typescript-better-than-javascript)
 - [Deno is the new Node?](https://medium.com/lean-mind/deno-node-js-killer-718c8969770b)
 - [Testing RxJS Observables with Marble Diagrams](https://medium.com/lean-mind/testing-rxjs-observables-with-marble-diagrams-c2e45820c5cb)
+
+## 🗣️ Talks
+- [JSDay Canarias 2018 - Human readable E2E testing](https://www.youtube.com/watch?v=J4FuWp9oVvI)
+- [JSDay Canarias 2019 - At the Helm of Kubernetes](https://www.youtube.com/watch?v=ZnmxP2paSXo)
+- [Commit Conf 2019 - The Future is Now: WebAssembly](https://www.youtube.com/watch?v=v-aZVTNZMWQ)
 
 ## 📈 Github Stats
 
