@@ -1,4 +1,4 @@
-<h1>Hi <img src="./assets/wave.gif" width="30px">, I'm Daniel Ramos</h1>
+<h1>Hi <img src="./assets/wave.gif" width="30px" height="30px">, I'm Daniel Ramos</h1>
 
 <p>
     <a href="https://twitter.com/DanielRamosAcos#gh-light-mode-only">
