@@ -47,7 +47,7 @@
 - 📚 Full-stack developer with expertise at Node, Express/Nest & React.
 - 💼 Currently working at [@acidtango](https://github.com/acidtango)
 - 🎥 [This is my video presentation](https://www.youtube.com/watch?v=pxEAhsFC5ko&ab_channel=AcidTango)
-- 🔭 Developing at [Wallbox](https://wallbox.com) installers project
+- 🔭 Developing at the [Cepsa GOW](https://apps.apple.com/es/app/ayil/id1570649924) iOS app by [Cepsa](https://www.cepsa.com/es)
 - 🌱 I’m currently learning/trying out Deno & Rust
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I live at the Canary Islands, and I love being in contact with the nature
