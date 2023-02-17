@@ -44,10 +44,10 @@
     </a>
 </p>
 
-- 📚 Full-stack developer with expertise at Node, Express/Nest & React.
+- 📚 Full-stack developer with expertise at Clean Architecture, DDD, TDD, and other XP practices.
 - 💼 Currently working at [@acidtango](https://github.com/acidtango)
 - 🎥 [This is my video presentation](https://www.youtube.com/watch?v=pxEAhsFC5ko&ab_channel=AcidTango)
-- 🔭 Developing at the [Cepsa GOW](https://apps.apple.com/es/app/ayil/id1570649924) iOS app by [Cepsa](https://www.cepsa.com/es)
+- 🔭 Developing at an internal project of [Inditex](https://www.inditex.com)
 - 🌱 I’m currently learning/trying out Deno & Rust
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I live at the Canary Islands, and I love being in contact with the nature
