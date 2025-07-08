@@ -62,6 +62,7 @@
 - [JSDay Canarias 2018 - Human readable E2E testing](https://www.youtube.com/watch?v=J4FuWp9oVvI)
 - [JSDay Canarias 2019 - At the Helm of Kubernetes](https://www.youtube.com/watch?v=ZnmxP2paSXo)
 - [Commit Conf 2019 - The Future is Now: WebAssembly](https://www.youtube.com/watch?v=v-aZVTNZMWQ)
+- [Deep MongoDB + AI queries](https://www.youtube.com/watch?v=wHtdlSitGVg)
 
 ## 📈 Github Stats
 
